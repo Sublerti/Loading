@@ -1,0 +1,34 @@
+echo "Loading"
+clear
+sleep 0.2
+echo "-"
+sleep 0.2
+echo "|"
+sleep 0.2
+echo "-"
+sleep 0.2
+echo "|"
+sleep 0.2
+echo "-"
+sleep 0.2
+echo "|"
+sleep 0.2
+echo "-"
+sleep 0.2
+echo "|"
+sleep 0.2
+echo "-"
+sleep 0.2
+echo "|"
+sleep 0.2
+echo "-"
+sleep 0.2
+echo "|"
+sleep 0.2
+echo "-"
+sleep 0.2
+echo "|"
+sleep 0.2
+echo "-"
+sleep 0.2
+
