@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "Loading"
 clear
 sleep 0.2
